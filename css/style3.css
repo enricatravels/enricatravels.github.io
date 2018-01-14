@@ -1,0 +1,66 @@
+body { 
+	background-color: #e8e8e8;
+	font-family: 'Playfair Display', serif;
+	}
+
+/*.header-blue { 
+	background-color: #b0cdf4;
+	}
+
+.header-red {
+	background-color: #d67171;
+	}
+*/
+
+.space{
+	margin-top: 25px;
+	}
+
+.rounded-img{
+	border-radius: 50%;
+	width:40%;
+	}
+
+.title{
+	font-weight: 300;
+	font-size: 20px;
+	padding-top: 10px;
+	}
+
+.header{
+	background-color: #fff316;
+	height: 50px;
+	font-family: 'Playfair Display SC', serif;
+
+	}
+	.sunset {
+	width: 300px
+	} 
+
+.aereo {
+	width: 200px
+	} 	
+
+.cactus {
+	width: 200px
+	} 
+
+.boats {
+	width: 200px
+	} 
+
+.road {
+	width: 200px
+	} 
+
+.catania {
+	width: 200px
+	} 
+
+.stpaul {
+	width: 200px
+	} 
+
+.hoian {
+	width: 200px
+	} 
